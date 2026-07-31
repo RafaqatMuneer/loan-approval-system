@@ -63,7 +63,7 @@ if predict:
     }
 
     # Flask API URL
-    API_URL = "http://127.0.0.1:5000/predict"
+    API_URL = "https://loan-approval-system-42jm.onrender.com/predict"
 
     # Number of attempts
     max_retries = 3
