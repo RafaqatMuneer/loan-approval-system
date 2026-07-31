@@ -95,7 +95,7 @@ streamlit run streamlit_app/app.py
 ```
 
 ## 📁 Project Structure
-
+```text
 Loan_Approval_Prediction/
 │
 ├── dataset/
@@ -106,6 +106,7 @@ Loan_Approval_Prediction/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚠️ Deployment Note
 
