@@ -7,7 +7,7 @@ from xgboost import XGBClassifier
 # intiating Flask app
 app = Flask(__name__)
 
-with open("models\loan_approval_model.joblib", "rb") as f:
+with open("models/loan_approval_model.joblib", "rb") as f:
     model = joblib.load(f)
 
 # creating home
